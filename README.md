@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sazzad Mahmud Joy</h1>
 <h3 align="center">I am Currently Studying Computer Science</h3>
-<img align = "right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smjoy222" alt="smjoy222" /></a> </p>
-
+<p align = "right" alt="coding"width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - 🌱 I’m currently learning **Programming, SEO Expert**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/sazzad_222?s=21&fbclid=iwar1npon7xoqieem4hp-dm9kc0llkal1mhfygwdlzzcxsulzafu2ebnvntqu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/sazzad_222?s=21&fbclid=iwar1npon7xoqieem4hp-dm9kc0llkal1mhfygwdlzzcxsulzafu2ebnvntqu" height="30" width="40" /></a>
@@ -18,3 +15,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smjoy222&show_icons=true&locale=en&layout=compact" alt="smjoy222" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smjoy222&show_icons=true&locale=en" alt="smjoy222" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smjoy222&" alt="smjoy222" /></p>
