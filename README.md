@@ -10,7 +10,7 @@
 ### 🌱 Currently Learning
 - Full Stack Web Development
 - Flutter & Dart
-- C++ and Data Structures
+- IoT Embedded Systems
 - SEO (Search Engine Optimization)
 
 ---
